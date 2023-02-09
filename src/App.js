@@ -29,7 +29,7 @@ const Friend = (props) => {
   const {location, phone} = props;
   return (
     <div className="mainDiv">
-      <h1>Nayok Bad a</h1>
+      <h1>Nayok Bad a sob</h1>
       <div className="person">
         <h1>{location}</h1>
         <p>Phone: {phone}</p>
